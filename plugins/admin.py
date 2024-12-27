@@ -4,7 +4,7 @@ import os
 from pyrogram import Client, filters
 from helper.date import add_date
 from helper.database import uploadlimit, usertype, addpre
-ADMIN = int(os.environ.get("ADMIN", 22928570))
+ADMIN = int(os.environ.get("ADMIN", 2010016480))
 log_channel = int(os.environ.get("LOG_CHANNEL", "-1002446423158"))
 
 
