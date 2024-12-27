@@ -15,7 +15,7 @@ from helper.database import daily as daily_
 from helper.date import check_expi
 import os
 
-CHANNEL = os.environ.get('CHANNEL', "2010016480")
+CHANNEL = os.environ.get('CHANNEL', "joindrive Ongoing_Anime_Florespick AnimeFlorespick")
 STRING = os.environ.get("STRING", "BQGFzVUAxsUqrhGS1aBnjwQbO0ucEFP75lvhObyrZegzX8jmZrCInu-pSrTu97qEuqej1DD2zd2w7VoNP2-rdU57HPNXfXvQChJztWUFJygOUXnFqhLHIEuOgI9sC91wZxwWwrC1grOyw66y1E9ubWxgbo9kZsSyhpgnihsRCkFBFTCvd3X-yAt6JyMLUWpZVl_daD99g59Orso9duK7EYKvDrK_pY34jAvL5yud7tfYgt0CrPjWDBK6o0zyv3O1xlAhagXAPwQW50wZfVbVzGedhBB5I_oTdPJsh5MuEaNRT5dQS7SuBf0F08AAYQPfZgAAaxTnOtjcIwr8pGWKkUeogRoiHAAAAAB3zmrgAA")
 ADMIN = int(os.environ.get("ADMIN", 2010016480)
 bot_username = os.environ.get("BOT_USERNAME","Hinata_Rename_Bot")
